@@ -4,3 +4,6 @@ add a line
 add a line
 add a line
 add a line
+
+
+self add
